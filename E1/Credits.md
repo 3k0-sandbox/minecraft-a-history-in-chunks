@@ -13,6 +13,8 @@ Intro + Outro: [Echo in the Wind](https://minecraft.wiki/w/Echo_in_the_Wind) - [
 
 [The ACTUAL History of Early Minecraft](https://www.youtube.com/watch?v=mzm-S9Rz6zo)
 
+[The origins of Minecraft](https://blog.omniarchive.uk/post/227922045/the-origins-of-minecraft/)
+
 [Interview with Notch - Creator of Minecraft](https://www.youtube.com/watch?v=0NI78R9N2_0)
 
 [RubyDung - Minecraft Wiki](https://minecraft.wiki/w/RubyDung)
