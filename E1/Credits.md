@@ -120,7 +120,7 @@ GL11.glTexParameteri(3553, 10241, 9987);
 GL11.glTexParameteri(3553, 10240, 9729);
 ```
 
-![[glitch.png]]
+![glitch.png](glitch.png)
 
 #### Add per-block UV offset
 I'm not sure what I thought this would accomplish. I suppose I expected the Moire pattern to dissolve into noise.
