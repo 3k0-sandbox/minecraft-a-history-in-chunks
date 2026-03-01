@@ -1,5 +1,10 @@
 # Music
 Intro + Outro: [Echo in the Wind](https://minecraft.wiki/w/Echo_in_the_Wind) - [Aaron Cherof](https://minecraft.wiki/w/Aaron_Cherof "Aaron Cherof")
+Echo in the Wind - Aaron Cherof
+Minecraft - C418
+Sweden - C418
+Featherfall - Aaron Cherof
+Left to Bloom - Lena Raine
 
 # Works Cited
 [Create Any Minecraft Logo In Davinci Resolve For Free](https://www.youtube.com/watch?v=7BRW7IyTO5M)
@@ -82,7 +87,7 @@ https://en.wikipedia.org/wiki/Insula_(building)
 # Code
 For the simpler edits I made, I'll just provide the updated methods and their locations.
 
-I used [Vineflower](https://vineflower.org/) to decompile the unobfuscated .jar file, made modifications, and ran them directly in my IDE. As such, I'll just provide updated code segments and notes as these were very simple mods.
+I used [Vineflower](https://vineflower.org/) to decompile the unobfuscated .jar file, made modifications, and ran them directly in my IDE. As such, I'll just provide updated code segments and notes as these were very simple mods. (I've since been using [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java)).
 
 ```powershell
 java -jar vineflower.jar .\pc-132011.jar pc-132011
@@ -121,6 +126,8 @@ Tried changing
 GL11.glTexParameteri(3553, 10241, 9987);
 GL11.glTexParameteri(3553, 10240, 9729);
 ```
+
+I didn't have the foresight to save the rest, but I'll try and be a better archivist.
 
 ![glitch.png](glitch.png)
 
