@@ -1,9 +1,14 @@
 # Music
 Intro + Outro: [Echo in the Wind](https://minecraft.wiki/w/Echo_in_the_Wind) - [Aaron Cherof](https://minecraft.wiki/w/Aaron_Cherof "Aaron Cherof")
+
 Echo in the Wind - Aaron Cherof
+
 Minecraft - C418
+
 Sweden - C418
+
 Featherfall - Aaron Cherof
+
 Left to Bloom - Lena Raine
 
 # Works Cited
