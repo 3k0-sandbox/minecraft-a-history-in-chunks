@@ -65,3 +65,13 @@ Alpha - C418
 - [Quint Materials Company Road Base Quarry](https://walkingdead.fandom.com/wiki/Quint_Materials_Company_Road_Base_Quarry)
 - [Zombie Town](https://youtu.be/TcCv21AqvWw)
 - [Left4kDead](https://theintraclinic.com/archive/j4k/l4kd/)
+
+# Left 4k Dead
+
+Requires **jdk1.8.0_202**.
+
+Using the `G.class` and `run.html`, you can run the following command in the Terminal:
+
+```console
+	& "C:\Program Files\Java\jdk1.8.0_202\bin\appletviewer.exe" run.html
+```
