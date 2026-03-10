@@ -75,3 +75,5 @@ Using the `G.class` and `run.html`, you can run the following command in the Ter
 ```console
 	& "C:\Program Files\Java\jdk1.8.0_202\bin\appletviewer.exe" run.html
 ```
+
+Credit to Markus Persson!
