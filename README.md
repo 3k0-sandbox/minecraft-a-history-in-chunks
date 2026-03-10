@@ -10,3 +10,24 @@ Resources for the Minecraft: A History in Chunks series
 > Here's all the information that'd best known before you start combining or upgrading old Minecraft worlds.
 
 I'll share my (3k0) own notes as we go, as they're spread across many [Obsidian](https://obsidian.md/) files, and written before I learned of others' guides so there's a lot of redundancy.
+
+## Running Inspiration List
+I'll add to this over time.
+
+[Xelanater Ellevanox - YouTube](https://www.youtube.com/@XelanaterEllevanox)
+
+[PuffingFishHQ - YouTube](https://www.youtube.com/@PuffingFish)
+
+[greffen - YouTube](https://www.youtube.com/@greffen)
+
+[bluecrab2 - YouTube](https://www.youtube.com/@bluecrab2)
+
+[bugmancx - YouTube](https://www.youtube.com/@bugmancx)
+
+[EthosLab - YouTube](https://www.youtube.com/@EthosLab)
+
+[AntVenom - YouTube](https://www.youtube.com/@AntVenom)
+
+[docm77 - YouTube](https://www.youtube.com/@docm77)
+
+[RaysWorks - YouTube](https://www.youtube.com/@RaysWorks)
