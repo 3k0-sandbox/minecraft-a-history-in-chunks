@@ -21,6 +21,12 @@ Resources for the Minecraft: A History in Chunks series
 [Nasko222's MultiMC Tweaks](https://github.com/nasko222/mmc-tweaks)
 > Various mods/changes that can be added to your version of Minecraft to give vanilla + experience. Such tweaks include saving for all of Indev 0.31, WIP Infdev saving, and resolution/crash fixes for other versions 
 
+[Nasko222's Old MC Mods](https://github.com/nasko222/old-mc-mods)
+> Saving mod for earlier Infdev versions (for obsidian axis lines for example)
+
+[MrLordSith's Mods](https://www.sithgames.com/projects/minecraft/mods/)
+> This includes crucial saving mod for Brick Pyramids, but also Voxels in Time.
+
 [Minecraft Ultimate Update Spreadsheet](https://docs.google.com/spreadsheets/d/1WV1Xkw203POcEYmi3Tp-AYlCYAO-NOi2vFkYELPDhmk/edit?gid=0#gid=0)
 > A Fork of Sl1m's document above, that adds on more information, discontinued features, and things changed in recreations. It is  WIP, but is mostly complete up to mid-Beta
 > Created by [@Christo18](https://www.youtube.com/@christo7899)
