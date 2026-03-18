@@ -12,6 +12,9 @@ Resources for the Minecraft: A History in Chunks series
 [Discontinued Features Wiki](https://mcdf.wiki.gg/wiki/Java_Edition:Main_Page)
 > Goes over discontinued features and how exactly you get said features and what versions they take place within
 
+[Playing Old Versions - Guide](https://mcdf.wiki.gg/wiki/Java_Edition:Tutorials/Playing_Old_Versions)
+> Goes into the specifics of how to play old Minecraft versions not present in the Vanilla launcher.
+
 [Dangerous Versions](https://mcdf.wiki.gg/wiki/Java_Edition:Tutorials/Potentially_Dangerous_Versions)
 > Goes over which versions of the game can cause certain issues such as crashes, softlocks, corruption, etc.
 
