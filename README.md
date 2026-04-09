@@ -3,6 +3,9 @@ Resources for the Minecraft: A History in Chunks series
 
 ## Series Resources
 
+[Font](https://github.com/tryashtar/minecraft-ttf/)
+> As of Episode 4.
+
 [Sl1m's Optimal Every Platform Timeline (Of Doom)](https://docs.google.com/spreadsheets/d/1CSOCSplHsTL3UNSQjHlDOFAafSYnekjqi7Djg5PFSME/edit?usp=sharing)
 > This sheet is an attempt to combine all of my knowledge of playing the wonderful buggy game called Minecraft. More specifically, this sheet is a guide to updating one world through as many versions as possible, taking into account all* editions of the game. There is a visual guide to show the optimal timelines for versions, guides written to explain how to play and convert on different platforms, a list of useful resources, and pages chock full of information pertaining to different updates.
 
